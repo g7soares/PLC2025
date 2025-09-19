@@ -6,7 +6,7 @@ Materiais e exercícios das aulas teórico-práticas:
 - [Aula 1](./Aulas%20tp/aula1/)
 
 ### [TPC's](./TPC'S/)
-Trabalhos para casa organizados por número:
+TPC's:
 - [TP1](./TPC'S/TP1/) 
 - [TP2](./TPC'S/TP2/)
 - [TP3](./TPC'S/TP3/)
