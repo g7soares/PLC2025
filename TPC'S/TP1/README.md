@@ -1,0 +1,1 @@
+Neste problema o professor pediu para conseguirmos uma expressão regular que descreve strings binárias onde não ocorre nenhuma ocorrência a palavra "011". Utilizei um autómato como método auxiliar, para chegar a uma expressão regular final.
