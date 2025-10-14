@@ -108,7 +108,7 @@ def tokenizer(input_string):
 
 ---
 
-## 📊 Estrutura de um Token
+## Estrutura de um Token
 
 Cada token retornado é uma tupla com 4 elementos:
 
